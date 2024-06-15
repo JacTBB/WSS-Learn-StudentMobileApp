@@ -1,0 +1,219 @@
+//Step 9 - Partial.cs
+namespace EFCoreWebAPI.Models
+{
+    public partial class Student
+    {
+        public string ModifiedStudentName   // property
+        {
+            get { return "Student " + this.StudentName; }   // get method
+        }
+    }
+}
+
+//Step 12 StudentView.cs
+namespace EFCoreWebAPI.Models
+{
+    public class StudentView
+    {
+        public int StudentId { get; set; }
+
+        private string? studentName;
+        public string? ModifiedStudentName { get; set; }
+        private int? standardId;
+        private string? address2;
+        public string? StudentName
+        {
+            get
+            {
+                return studentName;
+            }
+            set
+            {
+                if(value == null)
+                {
+                    studentName = "";
+                }
+                else
+                {
+                    studentName = value;
+                }
+            }
+        }
+        public int? StandardId
+        {
+            get
+            {
+                return standardId;
+            }
+            set
+            {
+                if (value == null)
+                {
+                    standardId = 0;
+                }
+                else
+                {
+                    standardId = value;
+                }
+            }
+        }
+        public string Address1 { get; set; }
+        public string? Address2
+        {
+            get
+            {
+                return address2;
+            }
+            set
+            {
+                if (value == null)
+                {
+                    address2 = "";
+                }
+                else
+                {
+                    address2 = value;
+                }
+            }
+        }
+        public string State { get; set; }
+        public string City { get; set; }
+
+    }
+}
+
+//Step 14 Get() method to retrieve student list from db
+        //get student list
+        // GET: api/<StudentController>
+        [HttpGet]
+        public IActionResult Get()
+        {
+            using (SchoolDBContext context = new SchoolDBContext())
+            {
+                try
+                {
+                    Student[] studentList = context.Students.Include(c => c.Standard).Include(d => d.StudentAddress).ToArray();
+                    StudentView[] studentListView = new StudentView[studentList.Length];
+                    int i = 0;
+                    foreach(Student s in studentList)
+                    {
+                        StudentView sv = new StudentView();
+                        sv.StudentId = s.StudentId;
+ 
+                        sv.StudentName = s.StudentName;
+                        sv.ModifiedStudentName = s.ModifiedStudentName;
+                        sv.StandardId = s.StandardId;
+                        sv.Address1 = s.StudentAddress.Address1;
+                        sv.Address2 = s.StudentAddress.Address2;
+                        sv.State = s.StudentAddress.State;
+                        sv.City = s.StudentAddress.City;
+                        studentListView[i] = sv;
+                        i = i + 1;
+                    }
+                    return Ok(studentListView);
+                    //return Ok(context.Students.Include(c => c.Standard).Include(d => d.StudentAddress).ToArray());
+                }
+                catch (Exception)
+                {
+                    return NotFound("An error has occured. Unable to load list of students");
+                }
+            }    
+        }
+
+//Step 18 Post() method to add new student to database
+        //Add new student
+        // POST api/<StudentController>
+        [HttpPost]
+        public IActionResult Post([FromBody] PostStudentBody newStudentPost)
+        {
+            using (SchoolDBContext context = new SchoolDBContext())
+            {
+                try
+                {
+                    Student newStudent = new Student();
+                    newStudent.StudentName = newStudentPost.StudentName;
+                    newStudent.StandardId = newStudentPost.StandardId;
+                    context.Students.Add(newStudent);
+                    context.SaveChanges();
+                    StudentAddress newStudentAddress = new StudentAddress();
+                    newStudentAddress.StudentId = newStudent.StudentId;
+                    newStudentAddress.Address1 = newStudentPost.Address1;
+                    newStudentAddress.Address2 = newStudentPost.Address2;
+                    newStudentAddress.City = newStudentPost.City;
+                    newStudentAddress.State = newStudentPost.State;
+                    newStudent.StudentAddress = newStudentAddress;
+                    context.SaveChanges();
+                    return Ok(newStudent.StudentId);
+                }
+                catch (Exception)
+                {
+                    return BadRequest("Unable to add student. Check request body is in correct format.");
+                }
+            }
+        }
+
+//Step 19 PostStudentBody class
+        public class PostStudentBody
+        {
+            public string? StudentName { get; set; }
+            public int? StandardId { get; set; }
+
+            public string Address1 { get; set; }
+            public string? Address2 { get; set; }
+            public string City { get; set; }
+            public string State { get; set; }
+
+            public PostStudentBody()
+            {
+
+            }
+        }
+
+//Step 24 AddStudentHttpService class in GetStudentListHttpService.kt 
+class AddStudentHttpService(private var context: SecondFragment, private var newStudent:Student) : AsyncTask<Void, Void, Boolean>() {
+    override fun doInBackground(vararg params: Void?): Boolean {
+        val url = URL("http://10.0.2.2:1600/api/student")
+        val con: HttpURLConnection = url.openConnection() as HttpURLConnection
+        con.requestMethod = "POST"
+        con.setRequestProperty("Content-Type", "application/json; utf-8");
+        con.setRequestProperty("Accept", "application/json");
+        val json = Json.encodeToString(newStudent)
+        val os: OutputStream = con.outputStream
+        os.write(json.toByteArray())
+        os.flush()
+        os.close()
+        Log.d("Http Service Tag-post", "response code "+con.responseCode);
+
+        con.disconnect();
+        return con.responseCode == 200
+    }
+
+    override fun onPreExecute() {
+        super.onPreExecute()
+        // ...
+    }
+
+    override fun onPostExecute(result: Boolean) {
+        super.onPostExecute(result)
+        if(result)
+        {
+            context.onAddorUpdateCompleted();
+        }
+        else
+        {
+            context.onAddorUpdateError();
+        }
+    }
+}
+
+//Step 26 Call AddStudentHttpService to call Web API to add students when submit button is clicked
+            binding.submitBtn.setOnClickListener { view ->
+                val newStudentObj = Student()
+                newStudentObj.studentName = binding.studentNameET.text.toString()
+                newStudentObj.standardId = binding.gradeSpin.selectedItemPosition
+                newStudentObj.address1 = binding.address1ET.text.toString()
+                newStudentObj.address2 = binding.address2ET.text.toString()
+                newStudentObj.state = binding.stateET.text.toString()
+                newStudentObj.city = binding.cityET.text.toString()
+                AddStudentHttpService(this,newStudentObj).execute()
+            }

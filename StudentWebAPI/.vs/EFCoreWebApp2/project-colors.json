@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "92a67dee-d7a3-42cb-923f-fd0c7f18428a": {
+      "ProjectGuid": "92a67dee-d7a3-42cb-923f-fd0c7f18428a",
+      "DisplayName": "EFCoreWebApp2",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "7c60fcc8-7aed-4561-a3e2-10b721d2a34e": {
+      "ProjectGuid": "7c60fcc8-7aed-4561-a3e2-10b721d2a34e",
+      "DisplayName": "EFCoreWebAPI",
+      "ColorIndex": 1
+    },
+    "7a8df65f-0cab-4614-b4df-330f5926962a": {
+      "ProjectGuid": "7a8df65f-0cab-4614-b4df-330f5926962a",
+      "DisplayName": "xamarinStudentApp",
+      "ColorIndex": 2
+    },
+    "533a907a-f353-42fc-a429-e2506c95ea78": {
+      "ProjectGuid": "533a907a-f353-42fc-a429-e2506c95ea78",
+      "DisplayName": "xamarinStudentApp.Android",
+      "ColorIndex": 3
+    },
+    "fcb588a7-59e4-4d37-9a1c-0c817aeb70dd": {
+      "ProjectGuid": "fcb588a7-59e4-4d37-9a1c-0c817aeb70dd",
+      "DisplayName": "App1",
+      "ColorIndex": 4
+    },
+    "95e25184-92a2-4f0c-9f2f-80e7a3c59c73": {
+      "ProjectGuid": "95e25184-92a2-4f0c-9f2f-80e7a3c59c73",
+      "DisplayName": "App2",
+      "ColorIndex": 5
+    },
+    "ea55b71c-a3c6-4517-b73b-48eb8da0980e": {
+      "ProjectGuid": "ea55b71c-a3c6-4517-b73b-48eb8da0980e",
+      "DisplayName": "DataModel",
+      "ColorIndex": 6
+    }
+  },
+  "NextColorIndex": 7
+}

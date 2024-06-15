@@ -1,0 +1,316 @@
+C:\Users\leowzz\source\repos\EFCoreWebApp2\EFCoreWebAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\leowzz\source\repos\EFCoreWebApp2\EFCoreWebAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\leowzz\source\repos\EFCoreWebApp2\EFCoreWebAPI\bin\Debug\net6.0\EFCoreWebAPI.exe
+C:\Users\leowzz\source\repos\EFCoreWebApp2\EFCoreWebAPI\bin\Debug\net6.0\EFCoreWebAPI.deps.json
+C:\Users\leowzz\source\repos\EFCoreWebApp2\EFCoreWebAPI\bin\Debug\net6.0\EFCoreWebAPI.runtimeconfig.json
+C:\Users\leowzz\source\repos\EFCoreWebApp2\EFCoreWebAPI\bin\Debug\net6.0\EFCoreWebAPI.dll
+C:\Users\leowzz\source\repos\EFCoreWebApp2\EFCoreWebAPI\bin\Debug\net6.0\ref\EFCoreWebAPI.dll
+C:\Users\leowzz\source\repos\EFCoreWebApp2\EFCoreWebAPI\bin\Debug\net6.0\EFCoreWebAPI.pdb
+C:\Users\leowzz\source\repos\EFCoreWebApp2\EFCoreWebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\leowzz\source\repos\EFCoreWebApp2\EFCoreWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\leowzz\source\repos\EFCoreWebApp2\EFCoreWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\leowzz\source\repos\EFCoreWebApp2\EFCoreWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\leowzz\source\repos\EFCoreWebApp2\EFCoreWebAPI\obj\Debug\net6.0\EFCoreWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leowzz\source\repos\EFCoreWebApp2\EFCoreWebAPI\obj\Debug\net6.0\EFCoreWebAPI.AssemblyInfoInputs.cache
+C:\Users\leowzz\source\repos\EFCoreWebApp2\EFCoreWebAPI\obj\Debug\net6.0\EFCoreWebAPI.AssemblyInfo.cs
+C:\Users\leowzz\source\repos\EFCoreWebApp2\EFCoreWebAPI\obj\Debug\net6.0\EFCoreWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\leowzz\source\repos\EFCoreWebApp2\EFCoreWebAPI\obj\Debug\net6.0\EFCoreWebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\leowzz\source\repos\EFCoreWebApp2\EFCoreWebAPI\obj\Debug\net6.0\EFCoreWebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\leowzz\source\repos\EFCoreWebApp2\EFCoreWebAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\leowzz\source\repos\EFCoreWebApp2\EFCoreWebAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\leowzz\source\repos\EFCoreWebApp2\EFCoreWebAPI\obj\Debug\net6.0\scopedcss\bundle\EFCoreWebAPI.styles.css
+C:\Users\leowzz\source\repos\EFCoreWebApp2\EFCoreWebAPI\obj\Debug\net6.0\EFCoreWebAPI.csproj.CopyComplete
+C:\Users\leowzz\source\repos\EFCoreWebApp2\EFCoreWebAPI\obj\Debug\net6.0\EFCoreWebAPI.dll
+C:\Users\leowzz\source\repos\EFCoreWebApp2\EFCoreWebAPI\obj\Debug\net6.0\ref\EFCoreWebAPI.dll
+C:\Users\leowzz\source\repos\EFCoreWebApp2\EFCoreWebAPI\obj\Debug\net6.0\EFCoreWebAPI.pdb
+C:\Users\leowzz\source\repos\EFCoreWebApp2\EFCoreWebAPI\obj\Debug\net6.0\EFCoreWebAPI.genruntimeconfig.cache
+C:\Users\leowzz\source\repos\EFCoreWebApp2\EFCoreWebAPI\bin\Debug\net6.0\Humanizer.dll
+C:\Users\leowzz\source\repos\EFCoreWebApp2\EFCoreWebAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\leowzz\source\repos\EFCoreWebApp2\EFCoreWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\leowzz\source\repos\EFCoreWebApp2\EFCoreWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\leowzz\source\repos\EFCoreWebApp2\EFCoreWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\leowzz\source\repos\EFCoreWebApp2\EFCoreWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\leowzz\source\repos\EFCoreWebApp2\EFCoreWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\leowzz\source\repos\EFCoreWebApp2\EFCoreWebAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\leowzz\source\repos\EFCoreWebApp2\EFCoreWebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\leowzz\source\repos\EFCoreWebApp2\EFCoreWebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\leowzz\source\repos\EFCoreWebApp2\EFCoreWebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\leowzz\source\repos\EFCoreWebApp2\EFCoreWebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\leowzz\source\repos\EFCoreWebApp2\EFCoreWebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\leowzz\source\repos\EFCoreWebApp2\EFCoreWebAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\leowzz\source\repos\EFCoreWebApp2\EFCoreWebAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\leowzz\source\repos\EFCoreWebApp2\EFCoreWebAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\leowzz\source\repos\EFCoreWebApp2\EFCoreWebAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\leowzz\source\repos\EFCoreWebApp2\EFCoreWebAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\leowzz\source\repos\EFCoreWebApp2\EFCoreWebAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\leowzz\source\repos\EFCoreWebApp2\EFCoreWebAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\leowzz\source\repos\EFCoreWebApp2\EFCoreWebAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\leowzz\source\repos\EFCoreWebApp2\EFCoreWebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\leowzz\source\repos\EFCoreWebApp2\EFCoreWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\leowzz\source\repos\EFCoreWebApp2\EFCoreWebAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\leowzz\source\repos\EFCoreWebApp2\EFCoreWebAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\leowzz\source\repos\EFCoreWebApp2\EFCoreWebAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\leowzz\source\repos\EFCoreWebApp2\EFCoreWebAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\leowzz\source\repos\EFCoreWebApp2\EFCoreWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\leowzz\source\repos\EFCoreWebApp2\EFCoreWebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\leowzz\source\repos\EFCoreWebApp2\EFCoreWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\leowzz\source\repos\EFCoreWebApp2\EFCoreWebAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\leowzz\source\repos\EFCoreWebApp2\EFCoreWebAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\leowzz\source\repos\EFCoreWebApp2\EFCoreWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\leowzz\source\repos\EFCoreWebApp2\EFCoreWebAPI\obj\Debug\net6.0\EFCoreWebAPI.csproj.AssemblyReference.cache
+C:\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\EFCoreWebAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\EFCoreWebAPI\bin\Debug\net6.0\appsettings.json
+C:\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\EFCoreWebAPI\bin\Debug\net6.0\EFCoreWebAPI.exe
+C:\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\EFCoreWebAPI\bin\Debug\net6.0\EFCoreWebAPI.deps.json
+C:\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\EFCoreWebAPI\bin\Debug\net6.0\EFCoreWebAPI.runtimeconfig.json
+C:\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\EFCoreWebAPI\bin\Debug\net6.0\EFCoreWebAPI.dll
+C:\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\EFCoreWebAPI\bin\Debug\net6.0\ref\EFCoreWebAPI.dll
+C:\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\EFCoreWebAPI\bin\Debug\net6.0\EFCoreWebAPI.pdb
+C:\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\EFCoreWebAPI\bin\Debug\net6.0\Humanizer.dll
+C:\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\EFCoreWebAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\EFCoreWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\EFCoreWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\EFCoreWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\EFCoreWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\EFCoreWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\EFCoreWebAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\EFCoreWebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\EFCoreWebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\EFCoreWebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\EFCoreWebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\EFCoreWebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\EFCoreWebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\EFCoreWebAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\EFCoreWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\EFCoreWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\EFCoreWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\EFCoreWebAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\EFCoreWebAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\EFCoreWebAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\EFCoreWebAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\EFCoreWebAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\EFCoreWebAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\EFCoreWebAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\EFCoreWebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\EFCoreWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\EFCoreWebAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\EFCoreWebAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\EFCoreWebAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\EFCoreWebAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\EFCoreWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\EFCoreWebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\EFCoreWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\EFCoreWebAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\EFCoreWebAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\EFCoreWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\EFCoreWebAPI\obj\Debug\net6.0\EFCoreWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\EFCoreWebAPI\obj\Debug\net6.0\EFCoreWebAPI.AssemblyInfoInputs.cache
+C:\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\EFCoreWebAPI\obj\Debug\net6.0\EFCoreWebAPI.AssemblyInfo.cs
+C:\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\EFCoreWebAPI\obj\Debug\net6.0\EFCoreWebAPI.csproj.CoreCompileInputs.cache
+C:\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\EFCoreWebAPI\obj\Debug\net6.0\EFCoreWebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\EFCoreWebAPI\obj\Debug\net6.0\EFCoreWebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\EFCoreWebAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\EFCoreWebAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\EFCoreWebAPI\obj\Debug\net6.0\scopedcss\bundle\EFCoreWebAPI.styles.css
+C:\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\EFCoreWebAPI\obj\Debug\net6.0\EFCoreWebAPI.csproj.CopyComplete
+C:\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\EFCoreWebAPI\obj\Debug\net6.0\EFCoreWebAPI.dll
+C:\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\EFCoreWebAPI\obj\Debug\net6.0\ref\EFCoreWebAPI.dll
+C:\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\EFCoreWebAPI\obj\Debug\net6.0\EFCoreWebAPI.pdb
+C:\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\EFCoreWebAPI\obj\Debug\net6.0\EFCoreWebAPI.genruntimeconfig.cache
+C:\Users\zhenl\source\repos\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\EFCoreWebAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\zhenl\source\repos\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\EFCoreWebAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\zhenl\source\repos\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\EFCoreWebAPI\bin\Debug\net6.0\EFCoreWebAPI.exe
+C:\Users\zhenl\source\repos\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\EFCoreWebAPI\bin\Debug\net6.0\EFCoreWebAPI.deps.json
+C:\Users\zhenl\source\repos\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\EFCoreWebAPI\bin\Debug\net6.0\EFCoreWebAPI.runtimeconfig.json
+C:\Users\zhenl\source\repos\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\EFCoreWebAPI\bin\Debug\net6.0\EFCoreWebAPI.dll
+C:\Users\zhenl\source\repos\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\EFCoreWebAPI\bin\Debug\net6.0\EFCoreWebAPI.pdb
+C:\Users\zhenl\source\repos\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\EFCoreWebAPI\bin\Debug\net6.0\Humanizer.dll
+C:\Users\zhenl\source\repos\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\EFCoreWebAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\zhenl\source\repos\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\EFCoreWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\zhenl\source\repos\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\EFCoreWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\zhenl\source\repos\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\EFCoreWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\zhenl\source\repos\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\EFCoreWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\zhenl\source\repos\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\EFCoreWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\zhenl\source\repos\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\EFCoreWebAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\zhenl\source\repos\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\EFCoreWebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\zhenl\source\repos\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\EFCoreWebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\zhenl\source\repos\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\EFCoreWebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\zhenl\source\repos\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\EFCoreWebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\zhenl\source\repos\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\EFCoreWebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\zhenl\source\repos\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\EFCoreWebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\zhenl\source\repos\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\EFCoreWebAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\zhenl\source\repos\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\EFCoreWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\zhenl\source\repos\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\EFCoreWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\zhenl\source\repos\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\EFCoreWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\zhenl\source\repos\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\EFCoreWebAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\zhenl\source\repos\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\EFCoreWebAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\zhenl\source\repos\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\EFCoreWebAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\zhenl\source\repos\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\EFCoreWebAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\zhenl\source\repos\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\EFCoreWebAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\zhenl\source\repos\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\EFCoreWebAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\zhenl\source\repos\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\EFCoreWebAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\zhenl\source\repos\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\EFCoreWebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\zhenl\source\repos\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\EFCoreWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\zhenl\source\repos\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\EFCoreWebAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\zhenl\source\repos\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\EFCoreWebAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\zhenl\source\repos\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\EFCoreWebAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\zhenl\source\repos\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\EFCoreWebAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\zhenl\source\repos\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\EFCoreWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\zhenl\source\repos\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\EFCoreWebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\zhenl\source\repos\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\EFCoreWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\zhenl\source\repos\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\EFCoreWebAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\zhenl\source\repos\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\EFCoreWebAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\zhenl\source\repos\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\EFCoreWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\zhenl\source\repos\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\EFCoreWebAPI\obj\Debug\net6.0\EFCoreWebAPI.csproj.AssemblyReference.cache
+C:\Users\zhenl\source\repos\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\EFCoreWebAPI\obj\Debug\net6.0\EFCoreWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zhenl\source\repos\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\EFCoreWebAPI\obj\Debug\net6.0\EFCoreWebAPI.AssemblyInfoInputs.cache
+C:\Users\zhenl\source\repos\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\EFCoreWebAPI\obj\Debug\net6.0\EFCoreWebAPI.AssemblyInfo.cs
+C:\Users\zhenl\source\repos\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\EFCoreWebAPI\obj\Debug\net6.0\EFCoreWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\zhenl\source\repos\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\EFCoreWebAPI\obj\Debug\net6.0\EFCoreWebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\zhenl\source\repos\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\EFCoreWebAPI\obj\Debug\net6.0\EFCoreWebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\zhenl\source\repos\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\EFCoreWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.EFCoreWebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\zhenl\source\repos\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\EFCoreWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.EFCoreWebAPI.props
+C:\Users\zhenl\source\repos\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\EFCoreWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EFCoreWebAPI.props
+C:\Users\zhenl\source\repos\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\EFCoreWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EFCoreWebAPI.props
+C:\Users\zhenl\source\repos\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\EFCoreWebAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\zhenl\source\repos\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\EFCoreWebAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\zhenl\source\repos\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\EFCoreWebAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\zhenl\source\repos\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\EFCoreWebAPI\obj\Debug\net6.0\scopedcss\bundle\EFCoreWebAPI.styles.css
+C:\Users\zhenl\source\repos\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\EFCoreWebAPI\obj\Debug\net6.0\EFCoreWebAPI.csproj.CopyComplete
+C:\Users\zhenl\source\repos\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\EFCoreWebAPI\obj\Debug\net6.0\EFCoreWebAPI.dll
+C:\Users\zhenl\source\repos\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\EFCoreWebAPI\obj\Debug\net6.0\refint\EFCoreWebAPI.dll
+C:\Users\zhenl\source\repos\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\EFCoreWebAPI\obj\Debug\net6.0\EFCoreWebAPI.pdb
+C:\Users\zhenl\source\repos\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\EFCoreWebAPI\obj\Debug\net6.0\EFCoreWebAPI.genruntimeconfig.cache
+C:\Users\zhenl\source\repos\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\EFCoreWebAPI\obj\Debug\net6.0\ref\EFCoreWebAPI.dll
+C:\Users\zhenl\source\repos\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\try\EFCoreWebAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\zhenl\source\repos\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\try\EFCoreWebAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\zhenl\source\repos\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\try\EFCoreWebAPI\bin\Debug\net6.0\EFCoreWebAPI.exe
+C:\Users\zhenl\source\repos\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\try\EFCoreWebAPI\bin\Debug\net6.0\EFCoreWebAPI.deps.json
+C:\Users\zhenl\source\repos\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\try\EFCoreWebAPI\bin\Debug\net6.0\EFCoreWebAPI.runtimeconfig.json
+C:\Users\zhenl\source\repos\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\try\EFCoreWebAPI\bin\Debug\net6.0\EFCoreWebAPI.dll
+C:\Users\zhenl\source\repos\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\try\EFCoreWebAPI\bin\Debug\net6.0\EFCoreWebAPI.pdb
+C:\Users\zhenl\source\repos\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\try\EFCoreWebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\zhenl\source\repos\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\try\EFCoreWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\zhenl\source\repos\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\try\EFCoreWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\zhenl\source\repos\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\try\EFCoreWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\zhenl\source\repos\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\try\EFCoreWebAPI\obj\Debug\net6.0\EFCoreWebAPI.csproj.AssemblyReference.cache
+C:\Users\zhenl\source\repos\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\try\EFCoreWebAPI\obj\Debug\net6.0\EFCoreWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zhenl\source\repos\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\try\EFCoreWebAPI\obj\Debug\net6.0\EFCoreWebAPI.AssemblyInfoInputs.cache
+C:\Users\zhenl\source\repos\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\try\EFCoreWebAPI\obj\Debug\net6.0\EFCoreWebAPI.AssemblyInfo.cs
+C:\Users\zhenl\source\repos\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\try\EFCoreWebAPI\obj\Debug\net6.0\EFCoreWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\zhenl\source\repos\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\try\EFCoreWebAPI\obj\Debug\net6.0\EFCoreWebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\zhenl\source\repos\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\try\EFCoreWebAPI\obj\Debug\net6.0\EFCoreWebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\zhenl\source\repos\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\try\EFCoreWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.EFCoreWebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\zhenl\source\repos\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\try\EFCoreWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.EFCoreWebAPI.props
+C:\Users\zhenl\source\repos\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\try\EFCoreWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EFCoreWebAPI.props
+C:\Users\zhenl\source\repos\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\try\EFCoreWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EFCoreWebAPI.props
+C:\Users\zhenl\source\repos\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\try\EFCoreWebAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\zhenl\source\repos\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\try\EFCoreWebAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\zhenl\source\repos\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\try\EFCoreWebAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\zhenl\source\repos\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\try\EFCoreWebAPI\obj\Debug\net6.0\scopedcss\bundle\EFCoreWebAPI.styles.css
+C:\Users\zhenl\source\repos\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\try\EFCoreWebAPI\obj\Debug\net6.0\EFCoreWebAPI.csproj.CopyComplete
+C:\Users\zhenl\source\repos\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\try\EFCoreWebAPI\obj\Debug\net6.0\EFCoreWebAPI.dll
+C:\Users\zhenl\source\repos\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\try\EFCoreWebAPI\obj\Debug\net6.0\refint\EFCoreWebAPI.dll
+C:\Users\zhenl\source\repos\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\try\EFCoreWebAPI\obj\Debug\net6.0\EFCoreWebAPI.pdb
+C:\Users\zhenl\source\repos\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\try\EFCoreWebAPI\obj\Debug\net6.0\EFCoreWebAPI.genruntimeconfig.cache
+C:\Users\zhenl\source\repos\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\try\EFCoreWebAPI\obj\Debug\net6.0\ref\EFCoreWebAPI.dll
+C:\Users\zhenl\source\repos\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\starter\StudentWebAPI\EFCoreWebAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\zhenl\source\repos\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\starter\StudentWebAPI\EFCoreWebAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\zhenl\source\repos\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\starter\StudentWebAPI\EFCoreWebAPI\bin\Debug\net6.0\EFCoreWebAPI.exe
+C:\Users\zhenl\source\repos\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\starter\StudentWebAPI\EFCoreWebAPI\bin\Debug\net6.0\EFCoreWebAPI.deps.json
+C:\Users\zhenl\source\repos\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\starter\StudentWebAPI\EFCoreWebAPI\bin\Debug\net6.0\EFCoreWebAPI.runtimeconfig.json
+C:\Users\zhenl\source\repos\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\starter\StudentWebAPI\EFCoreWebAPI\bin\Debug\net6.0\EFCoreWebAPI.dll
+C:\Users\zhenl\source\repos\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\starter\StudentWebAPI\EFCoreWebAPI\bin\Debug\net6.0\EFCoreWebAPI.pdb
+C:\Users\zhenl\source\repos\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\starter\StudentWebAPI\EFCoreWebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\zhenl\source\repos\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\starter\StudentWebAPI\EFCoreWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\zhenl\source\repos\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\starter\StudentWebAPI\EFCoreWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\zhenl\source\repos\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\starter\StudentWebAPI\EFCoreWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\zhenl\source\repos\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\starter\StudentWebAPI\EFCoreWebAPI\obj\Debug\net6.0\EFCoreWebAPI.csproj.AssemblyReference.cache
+C:\Users\zhenl\source\repos\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\starter\StudentWebAPI\EFCoreWebAPI\obj\Debug\net6.0\EFCoreWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zhenl\source\repos\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\starter\StudentWebAPI\EFCoreWebAPI\obj\Debug\net6.0\EFCoreWebAPI.AssemblyInfoInputs.cache
+C:\Users\zhenl\source\repos\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\starter\StudentWebAPI\EFCoreWebAPI\obj\Debug\net6.0\EFCoreWebAPI.AssemblyInfo.cs
+C:\Users\zhenl\source\repos\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\starter\StudentWebAPI\EFCoreWebAPI\obj\Debug\net6.0\EFCoreWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\zhenl\source\repos\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\starter\StudentWebAPI\EFCoreWebAPI\obj\Debug\net6.0\EFCoreWebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\zhenl\source\repos\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\starter\StudentWebAPI\EFCoreWebAPI\obj\Debug\net6.0\EFCoreWebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\zhenl\source\repos\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\starter\StudentWebAPI\EFCoreWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.EFCoreWebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\zhenl\source\repos\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\starter\StudentWebAPI\EFCoreWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.EFCoreWebAPI.props
+C:\Users\zhenl\source\repos\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\starter\StudentWebAPI\EFCoreWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EFCoreWebAPI.props
+C:\Users\zhenl\source\repos\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\starter\StudentWebAPI\EFCoreWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EFCoreWebAPI.props
+C:\Users\zhenl\source\repos\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\starter\StudentWebAPI\EFCoreWebAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\zhenl\source\repos\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\starter\StudentWebAPI\EFCoreWebAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\zhenl\source\repos\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\starter\StudentWebAPI\EFCoreWebAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\zhenl\source\repos\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\starter\StudentWebAPI\EFCoreWebAPI\obj\Debug\net6.0\scopedcss\bundle\EFCoreWebAPI.styles.css
+C:\Users\zhenl\source\repos\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\starter\StudentWebAPI\EFCoreWebAPI\obj\Debug\net6.0\EFCoreWebAPI.csproj.CopyComplete
+C:\Users\zhenl\source\repos\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\starter\StudentWebAPI\EFCoreWebAPI\obj\Debug\net6.0\EFCoreWebAPI.dll
+C:\Users\zhenl\source\repos\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\starter\StudentWebAPI\EFCoreWebAPI\obj\Debug\net6.0\refint\EFCoreWebAPI.dll
+C:\Users\zhenl\source\repos\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\starter\StudentWebAPI\EFCoreWebAPI\obj\Debug\net6.0\EFCoreWebAPI.pdb
+C:\Users\zhenl\source\repos\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\starter\StudentWebAPI\EFCoreWebAPI\obj\Debug\net6.0\EFCoreWebAPI.genruntimeconfig.cache
+C:\Users\zhenl\source\repos\WSS-ITSSB-Coach\TrainingContent\14. EFCore & Web API\EFCoreWebApp2\starter\StudentWebAPI\EFCoreWebAPI\obj\Debug\net6.0\ref\EFCoreWebAPI.dll
+C:\Users\jackie\Development\WorldSkills\Learning\EntityFramework\StudentMobileApp\StudentWebAPI\EFCoreWebAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\jackie\Development\WorldSkills\Learning\EntityFramework\StudentMobileApp\StudentWebAPI\EFCoreWebAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\jackie\Development\WorldSkills\Learning\EntityFramework\StudentMobileApp\StudentWebAPI\EFCoreWebAPI\bin\Debug\net6.0\EFCoreWebAPI.exe
+C:\Users\jackie\Development\WorldSkills\Learning\EntityFramework\StudentMobileApp\StudentWebAPI\EFCoreWebAPI\bin\Debug\net6.0\EFCoreWebAPI.deps.json
+C:\Users\jackie\Development\WorldSkills\Learning\EntityFramework\StudentMobileApp\StudentWebAPI\EFCoreWebAPI\bin\Debug\net6.0\EFCoreWebAPI.runtimeconfig.json
+C:\Users\jackie\Development\WorldSkills\Learning\EntityFramework\StudentMobileApp\StudentWebAPI\EFCoreWebAPI\bin\Debug\net6.0\EFCoreWebAPI.dll
+C:\Users\jackie\Development\WorldSkills\Learning\EntityFramework\StudentMobileApp\StudentWebAPI\EFCoreWebAPI\bin\Debug\net6.0\EFCoreWebAPI.pdb
+C:\Users\jackie\Development\WorldSkills\Learning\EntityFramework\StudentMobileApp\StudentWebAPI\EFCoreWebAPI\bin\Debug\net6.0\Humanizer.dll
+C:\Users\jackie\Development\WorldSkills\Learning\EntityFramework\StudentMobileApp\StudentWebAPI\EFCoreWebAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\jackie\Development\WorldSkills\Learning\EntityFramework\StudentMobileApp\StudentWebAPI\EFCoreWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\jackie\Development\WorldSkills\Learning\EntityFramework\StudentMobileApp\StudentWebAPI\EFCoreWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\jackie\Development\WorldSkills\Learning\EntityFramework\StudentMobileApp\StudentWebAPI\EFCoreWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\jackie\Development\WorldSkills\Learning\EntityFramework\StudentMobileApp\StudentWebAPI\EFCoreWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\jackie\Development\WorldSkills\Learning\EntityFramework\StudentMobileApp\StudentWebAPI\EFCoreWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\jackie\Development\WorldSkills\Learning\EntityFramework\StudentMobileApp\StudentWebAPI\EFCoreWebAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\jackie\Development\WorldSkills\Learning\EntityFramework\StudentMobileApp\StudentWebAPI\EFCoreWebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\jackie\Development\WorldSkills\Learning\EntityFramework\StudentMobileApp\StudentWebAPI\EFCoreWebAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\jackie\Development\WorldSkills\Learning\EntityFramework\StudentMobileApp\StudentWebAPI\EFCoreWebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\jackie\Development\WorldSkills\Learning\EntityFramework\StudentMobileApp\StudentWebAPI\EFCoreWebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\jackie\Development\WorldSkills\Learning\EntityFramework\StudentMobileApp\StudentWebAPI\EFCoreWebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\jackie\Development\WorldSkills\Learning\EntityFramework\StudentMobileApp\StudentWebAPI\EFCoreWebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\jackie\Development\WorldSkills\Learning\EntityFramework\StudentMobileApp\StudentWebAPI\EFCoreWebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\jackie\Development\WorldSkills\Learning\EntityFramework\StudentMobileApp\StudentWebAPI\EFCoreWebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\jackie\Development\WorldSkills\Learning\EntityFramework\StudentMobileApp\StudentWebAPI\EFCoreWebAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\jackie\Development\WorldSkills\Learning\EntityFramework\StudentMobileApp\StudentWebAPI\EFCoreWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\jackie\Development\WorldSkills\Learning\EntityFramework\StudentMobileApp\StudentWebAPI\EFCoreWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\jackie\Development\WorldSkills\Learning\EntityFramework\StudentMobileApp\StudentWebAPI\EFCoreWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\jackie\Development\WorldSkills\Learning\EntityFramework\StudentMobileApp\StudentWebAPI\EFCoreWebAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\jackie\Development\WorldSkills\Learning\EntityFramework\StudentMobileApp\StudentWebAPI\EFCoreWebAPI\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jackie\Development\WorldSkills\Learning\EntityFramework\StudentMobileApp\StudentWebAPI\EFCoreWebAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\jackie\Development\WorldSkills\Learning\EntityFramework\StudentMobileApp\StudentWebAPI\EFCoreWebAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\jackie\Development\WorldSkills\Learning\EntityFramework\StudentMobileApp\StudentWebAPI\EFCoreWebAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\jackie\Development\WorldSkills\Learning\EntityFramework\StudentMobileApp\StudentWebAPI\EFCoreWebAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jackie\Development\WorldSkills\Learning\EntityFramework\StudentMobileApp\StudentWebAPI\EFCoreWebAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\jackie\Development\WorldSkills\Learning\EntityFramework\StudentMobileApp\StudentWebAPI\EFCoreWebAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\jackie\Development\WorldSkills\Learning\EntityFramework\StudentMobileApp\StudentWebAPI\EFCoreWebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\jackie\Development\WorldSkills\Learning\EntityFramework\StudentMobileApp\StudentWebAPI\EFCoreWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\jackie\Development\WorldSkills\Learning\EntityFramework\StudentMobileApp\StudentWebAPI\EFCoreWebAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jackie\Development\WorldSkills\Learning\EntityFramework\StudentMobileApp\StudentWebAPI\EFCoreWebAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jackie\Development\WorldSkills\Learning\EntityFramework\StudentMobileApp\StudentWebAPI\EFCoreWebAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jackie\Development\WorldSkills\Learning\EntityFramework\StudentMobileApp\StudentWebAPI\EFCoreWebAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jackie\Development\WorldSkills\Learning\EntityFramework\StudentMobileApp\StudentWebAPI\EFCoreWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\jackie\Development\WorldSkills\Learning\EntityFramework\StudentMobileApp\StudentWebAPI\EFCoreWebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\jackie\Development\WorldSkills\Learning\EntityFramework\StudentMobileApp\StudentWebAPI\EFCoreWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\jackie\Development\WorldSkills\Learning\EntityFramework\StudentMobileApp\StudentWebAPI\EFCoreWebAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\jackie\Development\WorldSkills\Learning\EntityFramework\StudentMobileApp\StudentWebAPI\EFCoreWebAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jackie\Development\WorldSkills\Learning\EntityFramework\StudentMobileApp\StudentWebAPI\EFCoreWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\jackie\Development\WorldSkills\Learning\EntityFramework\StudentMobileApp\StudentWebAPI\EFCoreWebAPI\obj\Debug\net6.0\EFCoreWebAPI.csproj.AssemblyReference.cache
+C:\Users\jackie\Development\WorldSkills\Learning\EntityFramework\StudentMobileApp\StudentWebAPI\EFCoreWebAPI\obj\Debug\net6.0\EFCoreWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jackie\Development\WorldSkills\Learning\EntityFramework\StudentMobileApp\StudentWebAPI\EFCoreWebAPI\obj\Debug\net6.0\EFCoreWebAPI.AssemblyInfoInputs.cache
+C:\Users\jackie\Development\WorldSkills\Learning\EntityFramework\StudentMobileApp\StudentWebAPI\EFCoreWebAPI\obj\Debug\net6.0\EFCoreWebAPI.AssemblyInfo.cs
+C:\Users\jackie\Development\WorldSkills\Learning\EntityFramework\StudentMobileApp\StudentWebAPI\EFCoreWebAPI\obj\Debug\net6.0\EFCoreWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\jackie\Development\WorldSkills\Learning\EntityFramework\StudentMobileApp\StudentWebAPI\EFCoreWebAPI\obj\Debug\net6.0\EFCoreWebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\jackie\Development\WorldSkills\Learning\EntityFramework\StudentMobileApp\StudentWebAPI\EFCoreWebAPI\obj\Debug\net6.0\EFCoreWebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jackie\Development\WorldSkills\Learning\EntityFramework\StudentMobileApp\StudentWebAPI\EFCoreWebAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\jackie\Development\WorldSkills\Learning\EntityFramework\StudentMobileApp\StudentWebAPI\EFCoreWebAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\jackie\Development\WorldSkills\Learning\EntityFramework\StudentMobileApp\StudentWebAPI\EFCoreWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.EFCoreWebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\jackie\Development\WorldSkills\Learning\EntityFramework\StudentMobileApp\StudentWebAPI\EFCoreWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.EFCoreWebAPI.props
+C:\Users\jackie\Development\WorldSkills\Learning\EntityFramework\StudentMobileApp\StudentWebAPI\EFCoreWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EFCoreWebAPI.props
+C:\Users\jackie\Development\WorldSkills\Learning\EntityFramework\StudentMobileApp\StudentWebAPI\EFCoreWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EFCoreWebAPI.props
+C:\Users\jackie\Development\WorldSkills\Learning\EntityFramework\StudentMobileApp\StudentWebAPI\EFCoreWebAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\jackie\Development\WorldSkills\Learning\EntityFramework\StudentMobileApp\StudentWebAPI\EFCoreWebAPI\obj\Debug\net6.0\scopedcss\bundle\EFCoreWebAPI.styles.css
+C:\Users\jackie\Development\WorldSkills\Learning\EntityFramework\StudentMobileApp\StudentWebAPI\EFCoreWebAPI\obj\Debug\net6.0\EFCoreWe.01769AF7.Up2Date
+C:\Users\jackie\Development\WorldSkills\Learning\EntityFramework\StudentMobileApp\StudentWebAPI\EFCoreWebAPI\obj\Debug\net6.0\EFCoreWebAPI.dll
+C:\Users\jackie\Development\WorldSkills\Learning\EntityFramework\StudentMobileApp\StudentWebAPI\EFCoreWebAPI\obj\Debug\net6.0\refint\EFCoreWebAPI.dll
+C:\Users\jackie\Development\WorldSkills\Learning\EntityFramework\StudentMobileApp\StudentWebAPI\EFCoreWebAPI\obj\Debug\net6.0\EFCoreWebAPI.pdb
+C:\Users\jackie\Development\WorldSkills\Learning\EntityFramework\StudentMobileApp\StudentWebAPI\EFCoreWebAPI\obj\Debug\net6.0\EFCoreWebAPI.genruntimeconfig.cache
+C:\Users\jackie\Development\WorldSkills\Learning\EntityFramework\StudentMobileApp\StudentWebAPI\EFCoreWebAPI\obj\Debug\net6.0\ref\EFCoreWebAPI.dll

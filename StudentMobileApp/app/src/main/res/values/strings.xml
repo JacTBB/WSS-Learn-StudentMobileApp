@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">StudentMobileApp</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">List of Students</string>
+    <string name="second_fragment_label">Add New Student</string>
+    <string name="second_fragment_label2">View Student Profile</string>
+    <string name="submit">Submit</string>
+    <string name="edit">Edit</string>
+    <string name="previous">Previous</string>
+    <string name="student_name">Name : </string>
+    <string name="grade">Standard : </string>
+    <string name="address1">Address 1 : </string>
+    <string name="address2">Address 2 : </string>
+    <string name="city">City : </string>
+    <string name="state">State : </string>
+    <string name="delete">Delete</string>
+    <string name="courses">Courses</string>
+</resources>
