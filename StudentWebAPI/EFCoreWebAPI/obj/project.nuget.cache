@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Ym32XKgxeTp8MuKPlJ0SNJbj0p2gyhIlArZZKZ5xpC8w30xoBLQNvbLC1bo6B/Gzie5tynFw8gSRhzqSczWlPg==",
+  "dgSpecHash": "kuBgSQVTp0k=",
   "success": true,
   "projectFilePath": "C:\\Users\\jackie\\Development\\WorldSkills\\Learning\\EntityFramework\\StudentMobileApp\\StudentWebAPI\\EFCoreWebAPI\\EFCoreWebAPI.csproj",
   "expectedPackageFiles": [
@@ -52,7 +52,11 @@
     "C:\\Users\\jackie\\.nuget\\packages\\system.security.permissions\\4.7.0\\system.security.permissions.4.7.0.nupkg.sha512",
     "C:\\Users\\jackie\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512",
     "C:\\Users\\jackie\\.nuget\\packages\\system.text.encoding.codepages\\4.7.0\\system.text.encoding.codepages.4.7.0.nupkg.sha512",
-    "C:\\Users\\jackie\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512"
+    "C:\\Users\\jackie\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512",
+    "C:\\Users\\jackie\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.31\\microsoft.netcore.app.ref.6.0.31.nupkg.sha512",
+    "C:\\Users\\jackie\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.31\\microsoft.windowsdesktop.app.ref.6.0.31.nupkg.sha512",
+    "C:\\Users\\jackie\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.31\\microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "C:\\Users\\jackie\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.31\\microsoft.netcore.app.host.win-x64.6.0.31.nupkg.sha512"
   ],
   "logs": []
 }
